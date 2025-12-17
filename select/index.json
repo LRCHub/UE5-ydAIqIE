@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ドーナツホール (COVER)",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-03T15:22:53.617269Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-17T07:54:54.962811Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,54 +131,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_ドーナツホール_(COVER)_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_ドーナツホール_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_ドーナツホール_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_04_ドーナツホール_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_05_ドーナツホール_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_06_ドーナツホール_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "ドーナツホール",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_07_ドーナツホール_米津玄師.txt"
     }
   ]
 }
